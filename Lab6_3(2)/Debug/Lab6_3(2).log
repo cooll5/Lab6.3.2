@@ -1,0 +1,4 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  Lab6_3(2).cpp
+Lab6_3(2).obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  Lab6_3(2).vcxproj -> D:\Student\Project\Алгоритмізація&програмування\Obj\Lab6_3(2)\Debug\Lab6_3(2).exe
